@@ -28,11 +28,11 @@ Este proyecto realiza un análisis exploratorio de ventas utilizando un dataset 
 
 | Tipo         | Archivo                                  |
 |--------------|-------------------------------------------|
-| 📄 Informe Final    | [Informe_Analisis_Ventas.pdf](./Informe_Analisis_Ventas.pdf) |
-| 📊 Dashboard       | [Dashboard_Ventas.pdf](./Dashboard_Ventas.pdf) |
-| 📊 Imagen Dashboard| ![Dashboard](./Dashboard.png)       |
-| 📁 Datos Crudos     | [Base_de_Datos_Ventas.xlsx](./Base_de_Datos_Ventas.xlsx) |
-| 📈 Análisis Estadístico | [Analisis_Estadistico.xlsx](./Analisis_Estadistico.xlsx) |
+| Informe Final    | [Informe_Analisis_Ventas.pdf](./Informe_Analisis_Ventas.pdf) |
+| Dashboard       | [Dashboard_Ventas.pdf](./Dashboard_Ventas.pdf) |
+| Imagen Dashboard| ![Dashboard](./Dashboard.png)       |
+| Datos Crudos     | [Base_de_Datos_Ventas.xlsx](./Base_de_Datos_Ventas.xlsx) |
+| Análisis Estadístico | [Analisis_Estadistico.xlsx](./Analisis_Estadistico.xlsx) |
 
 ---
 
@@ -50,6 +50,14 @@ Este proyecto realiza un análisis exploratorio de ventas utilizando un dataset 
 1. Aumentar inversión en marketing digital para canal online.
 2. Campañas segmentadas por edad y región.
 3. Priorizar inventario en productos de alta demanda.
+
+---
+
+## 🧠 Cómo utilizar este proyecto
+
+Puedes abrir el archivo `Base_de_Datos_Ventas.xlsx` y aplicar tus propias tablas dinámicas para practicar análisis de datos.
+
+También puedes revisar `Analisis_Estadistico.xlsx` para entender cómo se aplicaron medidas de tendencia central y dispersión.
 
 ---
 
