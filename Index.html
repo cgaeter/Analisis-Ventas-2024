@@ -1,3 +1,5 @@
+# Actualización del archivo index.html con botón de descarga del CV
+html_updated = """
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -69,6 +71,7 @@
             <li><a class="button" href="Informe_Analisis_Ventas.pdf" target="_blank">📄 Ver Informe Final</a></li>
             <li><a class="button" href="Dashboard_Ventas.pdf" target="_blank">📊 Ver Dashboard en PDF</a></li>
             <li><a class="button" href="Base_de_Datos_Ventas.xlsx" target="_blank">📁 Descargar Base de Datos</a></li>
+            <li><a class="button" href="CV_CristianGaete.pdf" target="_blank">📄 Descargar mi CV</a></li>
         </ul>
 
         <h2>📬 Contacto</h2>
@@ -86,9 +89,9 @@
 </html>
 """
 
-# Guardar archivo
-html_path = "/mnt/data/index.html"
-with open(html_path, "w", encoding="utf-8") as f:
-    f.write(html_content)
+# Guardar archivo actualizado
+html_updated_path = "/mnt/data/index.html"
+with open(html_updated_path, "w", encoding="utf-8") as f:
+    f.write(html_updated)
 
-html_path
+html_updated_path
